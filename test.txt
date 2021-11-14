@@ -1,3 +1,3 @@
-this is my another commit! - snapshot!
+this is again a commit! - snapshot!
 
 and here we go with commit number 2
